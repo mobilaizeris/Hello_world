@@ -1,4 +1,4 @@
 # Hello_world
 
 
-here I repaste ruby code
+puts "here I repaste ruby code"
